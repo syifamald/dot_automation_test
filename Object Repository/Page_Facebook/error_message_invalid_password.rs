@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>error_message_invalid_password</name>
+   <tag></tag>
+   <elementGuidId>bc057c1c-9227-4782-bba1-50b6314e95dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_8G']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>error_message_invalid_password</value>
+      <webElementGuid>514b7f35-c0fe-4952-a584-1cd764a3ce04</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

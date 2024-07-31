@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>profile_icon</name>
+   <tag></tag>
+   <elementGuidId>941301f5-ff2a-416d-92e8-7afa72957127</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollview']/div/div/div/div/div[3]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>//div[@id='scrollview']/div/div/div/div/div[3]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>profile_icon</value>
+      <webElementGuid>647e616e-6f60-4b33-b0f1-82e1033df513</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
